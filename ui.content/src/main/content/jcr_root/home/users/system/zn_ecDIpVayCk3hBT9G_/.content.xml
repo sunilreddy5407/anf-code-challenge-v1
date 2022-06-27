@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:primaryType="rep:SystemUser"
+    jcr:uuid="2f4e8259-0c9a-3eee-9637-033dfd80ad8d"
+    rep:authorizableId="anf-auth-service"
+    rep:principalName="anf-auth-service"/>
